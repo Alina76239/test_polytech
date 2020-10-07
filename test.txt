@@ -1,0 +1,450 @@
+Отчет о компьютере
+MINGW32_NT-10.0-18363 DESKTOP-214DFLL 3.1.6-340.i686 2020-07-09 14:36 UTC i686 Msys
+Запущенные программы:
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1229    1228    1229       8568  pty0      197609 00:57:27 /usr/bin/bash
+     1331    1229    1331        316  pty0      197609 01:02:29 /usr/bin/ps
+     1228       1    1228       1388  ?         197609 00:57:26 /usr/bin/mintty
+Процессор:     
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 22
+model		: 0
+model name	: AMD A4-5000 APU with Radeon(TM) HD Graphics    
+stepping	: 1
+microcode	: 0x7000106
+cpu MHz		: 0.000
+cache size	: 2048 KB
+physical id	: 0
+siblings	: 4
+core id		: 0
+cpu cores	: 4
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 19
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc nonstop_tsc aperfmperf pni pclmuldq monitor ssse3 cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt topoext perfctr_nb bpext perfctr_llc hw_pstate proc_feedback bmi1 xsaveopt npt lbrv svm_lock nrip_save tsc_scale flushbyasid decode_assists pausefilter pfthreshold overflow_recov
+bogomips	: 3000.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management: ts ttp tm 100mhzsteps hwpstate proc_feedback
+
+processor	: 1
+vendor_id	: AuthenticAMD
+cpu family	: 22
+model		: 0
+model name	: AMD A4-5000 APU with Radeon(TM) HD Graphics    
+stepping	: 1
+microcode	: 0x7000106
+cpu MHz		: 0.000
+cache size	: 2048 KB
+physical id	: 0
+siblings	: 4
+core id		: 1
+cpu cores	: 4
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 20
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc nonstop_tsc aperfmperf pni pclmuldq monitor ssse3 cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt topoext perfctr_nb bpext perfctr_llc hw_pstate proc_feedback bmi1 xsaveopt npt lbrv svm_lock nrip_save tsc_scale flushbyasid decode_assists pausefilter pfthreshold overflow_recov
+bogomips	: 3000.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management: ts ttp tm 100mhzsteps hwpstate proc_feedback
+
+processor	: 2
+vendor_id	: AuthenticAMD
+cpu family	: 22
+model		: 0
+model name	: AMD A4-5000 APU with Radeon(TM) HD Graphics    
+stepping	: 1
+microcode	: 0x7000106
+cpu MHz		: 0.000
+cache size	: 2048 KB
+physical id	: 0
+siblings	: 4
+core id		: 2
+cpu cores	: 4
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 20
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc nonstop_tsc aperfmperf pni pclmuldq monitor ssse3 cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt topoext perfctr_nb bpext perfctr_llc hw_pstate proc_feedback bmi1 xsaveopt npt lbrv svm_lock nrip_save tsc_scale flushbyasid decode_assists pausefilter pfthreshold overflow_recov
+bogomips	: 3000.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management: ts ttp tm 100mhzsteps hwpstate proc_feedback
+
+processor	: 3
+vendor_id	: AuthenticAMD
+cpu family	: 22
+model		: 0
+model name	: AMD A4-5000 APU with Radeon(TM) HD Graphics    
+stepping	: 1
+microcode	: 0x7000106
+cpu MHz		: 0.000
+cache size	: 2048 KB
+physical id	: 0
+siblings	: 4
+core id		: 3
+cpu cores	: 4
+apicid		: 3
+initial apicid	: 3
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 20
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc nonstop_tsc aperfmperf pni pclmuldq monitor ssse3 cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt topoext perfctr_nb bpext perfctr_llc hw_pstate proc_feedback bmi1 xsaveopt npt lbrv svm_lock nrip_save tsc_scale flushbyasid decode_assists pausefilter pfthreshold overflow_recov
+bogomips	: 3000.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management: ts ttp tm 100mhzsteps hwpstate proc_feedback
+Память:
+MemTotal:        3554540 kB
+MemFree:         1263252 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:        3554540 kB
+LowFree:         1263252 kB
+SwapTotal:       1310720 kB
+SwapFree:        1027864 kB
+Текстовых файлов всего: 328
+Список:
+/c/Users/Пользователь/AppData/Local/GitHubDesktop/app-2.5.5/resources/app/git/etc/libexec-moved.txt
+/c/Users/Пользователь/AppData/Local/GitHubDesktop/app-2.5.5/resources/app/git/etc/package-versions.txt
+/c/Users/Пользователь/AppData/Local/GitHubDesktop/app-2.5.5/resources/app/git/LICENSE.txt
+/c/Users/Пользователь/AppData/Local/GitHubDesktop/app-2.5.5/resources/app/git/mingw64/doc/git-credential-manager/LICENSE.txt
+/c/Users/Пользователь/AppData/Local/GitHubDesktop/app-2.5.5/resources/app/git/usr/share/licenses/ncurses/license.txt
+/c/Users/Пользователь/AppData/Local/gitkraken/app-7.3.2/resources/app.asar.unpacked/src/THIRD-PARTY-LICENSES.txt
+/c/Users/Пользователь/AppData/Local/Microsoft/CLR_v4.0_32/NGenDisable.txt
+/c/Users/Пользователь/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/29eb5eacb05363703a494bbad16a2cdd1da1fb81/index.txt
+/c/Users/Пользователь/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/index.txt
+/c/Users/Пользователь/AppData/Local/Microsoft/Edge/User Data/edge_shutdown_ms.txt
+/c/Users/Пользователь/AppData/Local/Microsoft/Edge/User Data/Subresource Filter/Unindexed Rules/9.17.0/LICENSE.txt
+/c/Users/Пользователь/AppData/Local/Microsoft/Internet Explorer/brndlog.txt
+/c/Users/Пользователь/AppData/Local/Microsoft/OneDrive/20.169.0823.0006/ThirdPartyNotices.txt
+/c/Users/Пользователь/AppData/Local/Microsoft/OneDrive/logs/Common/telemetry-dll-ramp-value.txt
+/c/Users/Пользователь/AppData/Local/Microsoft/OneDrive/logs/Personal/telemetry-dll-ramp-value.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_06_20_43_20_8619.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_06_20_58_20_6227.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_06_21_13_20_7197.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_23_16_44_5873.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_23_39_14_0973.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_23_44_44_5465.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_08_00_09_07_6055.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_08_00_18_32_5717.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_08_00_38_03_4045.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_08_00_51_04_9331.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_08_01_12_53_3212.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.PostInstallationTask05_03_01_20_32_8439.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.PostInstallationTask05_03_01_54_46_6504.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.PostInstallationTask08_29_01_43_18_4381.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/DiagOutputDir/SkypeApp0.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{3f2d3c1d-69f6-4a5e-852f-4d30461cb7f3}/0.0.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{3f2d3c1d-69f6-4a5e-852f-4d30461cb7f3}/0.1.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{3f2d3c1d-69f6-4a5e-852f-4d30461cb7f3}/0.2.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{8898e185-81e2-436b-a4b8-f490e89f5636}/0.0.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{8898e185-81e2-436b-a4b8-f490e89f5636}/0.1.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{8898e185-81e2-436b-a4b8-f490e89f5636}/0.2.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{fbd2bc0b-5edc-4fc6-aea0-af357dc02084}/0.0.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{fbd2bc0b-5edc-4fc6-aea0-af357dc02084}/0.1.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{fbd2bc0b-5edc-4fc6-aea0-af357dc02084}/0.2.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{5a3bec61-bb4c-42ef-84e8-73f796ac58cc}/appsconversions.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{5a3bec61-bb4c-42ef-84e8-73f796ac58cc}/appsglobals.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{5a3bec61-bb4c-42ef-84e8-73f796ac58cc}/appssynonyms.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{5a3bec61-bb4c-42ef-84e8-73f796ac58cc}/settingsconversions.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{5a3bec61-bb4c-42ef-84e8-73f796ac58cc}/settingsglobals.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{5a3bec61-bb4c-42ef-84e8-73f796ac58cc}/settingssynonyms.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{0c5e7d0c-7540-4a7a-8c9e-684bdc457bd7}/0.0.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{0c5e7d0c-7540-4a7a-8c9e-684bdc457bd7}/0.1.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{0c5e7d0c-7540-4a7a-8c9e-684bdc457bd7}/0.2.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{84a0ab6a-26e1-41fa-9d4b-08fb5ca6c7d4}/0.0.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{84a0ab6a-26e1-41fa-9d4b-08fb5ca6c7d4}/0.1.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{84a0ab6a-26e1-41fa-9d4b-08fb5ca6c7d4}/0.2.filtertrie.intermediate.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132465717429358572.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132465717474957659.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132465730205832516.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132465730493172860.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132465732415028636.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/DeviceSearchCache/SettingsCache.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_August_29_2020__1_59_5.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_May_3_2020__2_15_57.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/TempState/XboxGamingOverlayTraces_20201006163825.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/TempState/XboxGamingOverlayTraces_20201007193511.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/TempState/XboxGamingOverlayTraces_FT_20201006163826.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/TempState/XboxGamingOverlayTraces_FT_20201007193513.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/TempState/XboxGamingOverlayTraces_FT_Server_20201006163825.txt
+/c/Users/Пользователь/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/TempState/XboxGamingOverlayTraces_FT_Server_20201007193513.txt
+/c/Users/Пользователь/AppData/Local/Programs/Opera/70.0.3728.133/resources/eula_desktop_eea.txt
+/c/Users/Пользователь/AppData/Local/Programs/Opera/70.0.3728.133/resources/eula_desktop_row.txt
+/c/Users/Пользователь/AppData/Local/Programs/Opera/71.0.3770.198/resources/eula_desktop_eea.txt
+/c/Users/Пользователь/AppData/Local/Programs/Opera/71.0.3770.198/resources/eula_desktop_row.txt
+/c/Users/Пользователь/AppData/Local/Programs/Opera/71.0.3770.228/resources/eula_desktop_eea.txt
+/c/Users/Пользователь/AppData/Local/Programs/Opera/71.0.3770.228/resources/eula_desktop_row.txt
+/c/Users/Пользователь/AppData/Local/Temp/.opera/401BAE3B4955/CUsersПользовательAppDataLocalProgramsOpera/installing/resources/eula_desktop_eea.txt
+/c/Users/Пользователь/AppData/Local/Temp/.opera/401BAE3B4955/CUsersПользовательAppDataLocalProgramsOpera/installing/resources/eula_desktop_row.txt
+/c/Users/Пользователь/AppData/Local/Temp/lesson003/test_polytech/spisok.txt
+/c/Users/Пользователь/AppData/Local/Temp/lesson003/test_polytech/test.txt
+/c/Users/Пользователь/AppData/Local/Temp/lesson03/test_polytech/lyrics.txt
+/c/Users/Пользователь/AppData/Local/Temp/lesson03/test_polytech/Scary_Love.txt
+/c/Users/Пользователь/AppData/Roaming/.gitkraken/error-log.txt
+/c/Users/Пользователь/AppData/Roaming/.gitkraken/logs/app.txt
+/c/Users/Пользователь/AppData/Roaming/.gitkraken/logs/repos/test_polytech-da829b83/repo.txt
+/c/Users/Пользователь/AppData/Roaming/Opera Software/Opera Stable/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/index.txt
+/c/Users/Пользователь/AppData/Roaming/Opera Software/Opera Stable/Service Worker/CacheStorage/2fb1c0eab434d7c98ac5f0d6fa8bd38cef49d5a0/index.txt
+/c/Users/Пользователь/AppData/Roaming/Opera Software/Opera Stable/Service Worker/CacheStorage/313a831c8fcbd33313f1147cdd13bc0b40a0ae8f/index.txt
+/c/Users/Пользователь/AppData/Roaming/Opera Software/Opera Stable/Service Worker/CacheStorage/74b57bad8fd8927eb279566babebfdaa3d39d99d/index.txt
+/c/Users/Пользователь/AppData/Roaming/Opera Software/Opera Stable/Service Worker/CacheStorage/7f48483383968cfbf97a5c6d736588b00ccb874e/index.txt
+/c/Users/Пользователь/AppData/Roaming/Opera Software/Opera Stable/Service Worker/CacheStorage/d6258f9baea68eb6883d292195cd42a5a2292916/index.txt
+/c/Users/Пользователь/AppData/Roaming/Opera Software/Opera Stable/Subresource Filter/Unindexed Rules/9.16.0/LICENSE.txt
+/c/Users/Пользователь/AppData/Roaming/Opera Software/Opera Stable/Subresource Filter/Unindexed Rules/9.17.0/LICENSE.txt
+/c/Users/Пользователь/Desktop/PortableGit/etc/package-versions.txt
+/c/Users/Пользователь/Desktop/PortableGit/LICENSE.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/doc/git-credential-manager/LICENSE.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-1.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-10.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-11.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-13.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-14.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-15.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-16.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-2.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-3.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-4.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-5.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-6.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-7.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-8.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/8859-9.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/cp1250.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/cp1251.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/cp1252.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/cp437.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/cp850.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/cp852.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/cp862.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/cp864.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/cp866.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/koi8-r.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/koi8-u.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/MacCyrillic.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/MacRoman.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/roman.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/antiword/UTF-8.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/doc/connect/manual.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/doc/xz/examples/00_README.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/doc/xz/faq.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/doc/xz/history.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/doc/xz/lzma-file-format.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/doc/xz/xz-file-format.txt
+/c/Users/Пользователь/Desktop/PortableGit/mingw32/share/git/builtins.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.be.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.ca.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.cs.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.da.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.de.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.el.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.eo.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.es.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.et.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.fi.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.fr.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.gl.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.hu.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.id.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.it.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.ja.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.nb.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.pl.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.pt.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.pt_BR.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.ro.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.ru.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.sk.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.sv.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.tr.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.zh_CN.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/gnupg/help.zh_TW.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/licenses/ncurses/license.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/licenses/vim/license.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/perl5/core_perl/unicore/Blocks.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/perl5/core_perl/unicore/NamedSequences.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/perl5/core_perl/unicore/SpecialCasing.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/autoload/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/colors/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/compiler/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/arabic.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/autocmd.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/change.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/channel.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/cmdline.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/debug.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/debugger.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/develop.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/diff.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/digraph.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/editing.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/eval.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/farsi.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/filetype.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/fold.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/ft_ada.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/ft_rust.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/ft_sql.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/gui.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/gui_w32.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/gui_x11.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/hangulin.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/hebrew.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/help.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/helphelp.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/howto.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/if_cscop.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/if_lua.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/if_mzsch.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/if_ole.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/if_perl.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/if_pyth.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/if_ruby.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/if_sniff.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/if_tcl.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/indent.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/index.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/insert.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/intro.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/map.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/mbyte.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/message.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/mlang.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/motion.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/netbeans.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/options.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_390.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_amiga.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_beos.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_dos.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_haiku.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_mac.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_mint.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_msdos.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_os2.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_qnx.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_risc.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_unix.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_vms.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/os_win32.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/pattern.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/pi_getscript.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/pi_gzip.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/pi_logipat.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/pi_netrw.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/pi_paren.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/pi_spec.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/pi_tar.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/pi_vimball.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/pi_zip.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/popup.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/print.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/quickfix.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/quickref.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/quotes.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/recover.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/remote.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/repeat.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/rileft.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/russian.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/scroll.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/sign.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/spell.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/sponsor.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/starting.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/syntax.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/tabpage.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/tagsrch.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/term.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/terminal.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/testing.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/textprop.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/tips.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/todo.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/uganda.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/undo.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_01.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_02.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_03.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_04.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_05.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_06.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_07.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_08.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_09.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_10.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_11.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_12.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_20.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_21.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_22.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_23.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_24.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_25.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_26.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_27.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_28.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_29.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_30.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_31.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_32.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_40.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_41.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_42.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_43.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_44.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_45.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_90.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/usr_toc.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/various.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/version4.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/version5.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/version6.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/version7.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/version8.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/vim9.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/visual.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/vi_diff.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/windows.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/doc/workshop.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/ftplugin/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/indent/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/keymap/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/lang/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/macros/maze/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/macros/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/macros/urm/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/pack/dist/opt/matchit/doc/matchit.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/plugin/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/rgb.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/syntax/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/tools/ccfilter_README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/tools/efm_filter.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/tools/mve.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/tools/README.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/tools/vimspell.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/tutor/README.el.cp737.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/tutor/README.el.txt
+/c/Users/Пользователь/Desktop/PortableGit/usr/share/vim/vim82/tutor/README.txt
+/c/Users/Пользователь/Desktop/Новая папка/_About.txt
+/c/Users/Пользователь/Desktop/Новая папка/_Readme.txt
+/c/Users/Пользователь/Desktop/Новая папка/Описание.txt
+/c/Users/Пользователь/lesson03/test_polytech/lyrics.txt
+/c/Users/Пользователь/lesson03/test_polytech/Scary_Love.txt
